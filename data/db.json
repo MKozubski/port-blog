@@ -1,0 +1,22 @@
+{
+    "blogs":[
+        {
+            "title": "My first blog",
+            "body": "Is this even real, is anythign real.\nIf you're reading this, it may not be real..you may not be real.",
+            "author": "Mike Z",
+            "id": 1
+        },
+        {
+            "title": "My second blog",
+            "body": "I am not sure any of this is real anymore, there is no proof that reality is as it seems.",
+            "author": "Mike Z",
+            "id": 2
+        },
+        {
+            "title": "My third blog",
+            "body": "Is it just fantasy, or are we just caught in a landslide with no escape from reality?.",
+            "author": "Mike Z",
+            "id": 3
+        }
+    ]
+}
