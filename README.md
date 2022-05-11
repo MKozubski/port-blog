@@ -6,6 +6,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+### Note from Mike `npx json-server --watch data/db.json --port 8000` 
+
+Starts the json server on port 8000, json server is used to access the data/data.json file,
+
 ### `npm start`
 
 Runs the app in the development mode.\
